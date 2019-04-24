@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/v-auth" />
+    <file type="web" url="file://$PROJECT_DIR$/v-chat" />
+    <file type="web" url="file://$PROJECT_DIR$/v-commons" />
+    <file type="web" url="file://$PROJECT_DIR$/v-orders" />
+    <file type="web" url="file://$PROJECT_DIR$/v-products" />
+    <file type="web" url="file://$PROJECT_DIR$/v-seckill" />
+    <file type="web" url="file://$PROJECT_DIR$/v-trade" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/v-orders/pom.xml" />
+        <option value="$PROJECT_DIR$/v-seckill/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

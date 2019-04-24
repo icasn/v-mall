@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.v-mall</groupId>
+    <artifactId>v-parents</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>v-beans</module>
+        <module>v-dao</module>
+        <module>v-utils</module>
+        <module>v-auth</module>
+        <module>v-trade</module>
+        <module>v-products</module>
+        <module>v-seckill</module>
+        <module>v-commons</module>
+        <module>v-chat</module>
+        <module>v-common</module>
+    </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.v-mall</groupId>
+            <artifactId>v-beans</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
+
+</project>
